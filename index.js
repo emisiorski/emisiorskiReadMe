@@ -81,15 +81,15 @@ function init() {
     inquirer.prompt(questions).then((answers) => {
         console.log(answers)
         var template = generateMarkdown(answers)
-    fs.writeFile ('./README.md'), template, (error) => {
+    fs.writeFile ('./README.md', template, (error) => {
         if (error) {
             console.log(error)
         } else {
             console.log("successfully created")
         }
     })
-})
-    }
+    })
+}
     
 
 
