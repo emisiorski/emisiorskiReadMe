@@ -1,8 +1,8 @@
 
-  # fdsa
+  # emisiorskiReadMe
 
   ## Description:
-  fdsa
+  this application helps developers created readme's for their projects
 
   ## Table of Contents
   - Description (#description)
@@ -13,24 +13,27 @@
   - Questions (#questions)
 
   ## Installation:
-  fdsa
+  it is required to install inquirer for this project
 
   ## Usage:
-  fdsa
+  see attached video
+
+  https://watch.screencastify.com/v/pxRkZTIlNTZLoFQaFf4Y
+  
 
   ## Contributors:
-  fdsa
+  emisiorski
 
   ## GitHub Name:
-  fdsa
+  emisiorski
 
   ## License
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Tests:
-  fdsa
+  this is a test
 
   ## Questions:
   If you have any questions, please contact at: 
-  fdsa
+  ericamisiorski@gmail.com
 
