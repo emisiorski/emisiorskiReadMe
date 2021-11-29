@@ -8,38 +8,38 @@ const fs = require('fs');
 const questions = [
         {
             type: 'input',
-            name: 'github name',
+            name: 'name',
             message: 'What is your GitHub name?'
         },
         {
             type: 'input',
-            name: 'Project Title',
+            name: 'title',
             message: 'What is your project title?'
         },
         {
             type: 'input',
-            name: 'Description',
-            message: 'Enter a description for your project',
+            name: 'description',
+            message: 'Please enter a description for your project',
         },
         {
             type: 'input',
-            name: 'Install',
-            message: "Enter installation instructions as a comma separated list:"
+            name: 'install',
+            message: "Please enter requirements for installation"
         },
         {
             type: 'input',
             name: "usage",
-            message: "Enter usage information for your project:"
+            message: "Please enter instructions for usage"
         },
         {
             type: 'input',
             name: 'contribution',
-            message: "Enter contributors to your project:"
+            message: "Please enter contributors to your project:"
         },
         {
             type: 'input',
             name: 'testing',
-            message: "Enter test information for your project:"
+            message: "Please enter test information for your project:"
         },
         {
             type: 'list',

@@ -27,7 +27,8 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
-  return `# ${answers.title}
+  return `
+  # ${answers.title}
 
   ## Description:
   ${answers.description}
@@ -41,13 +42,16 @@ function generateMarkdown(answers) {
   - Questions (#questions)
 
   ## Installation:
-  ${answers.installation}
+  ${answers.install}
 
   ## Usage:
   ${answers.usage}
 
   ## Contributors:
   ${answers.contribution}
+
+  ## GitHub Name:
+  ${answers.name}
 
   ## License
   ${renderLicenseBadge(answers.license)}

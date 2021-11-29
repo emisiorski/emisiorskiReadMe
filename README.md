@@ -5,7 +5,7 @@
 
   ## Table of Contents
   - Description (#description)
-  - Installation (#installation)
+  - Installation (#install)
   - Usage (#usage)
   - Contributors (#contribution)
   - Tests (#testing)
@@ -15,13 +15,18 @@
   undefined
 
   ## Usage:
-  s
+  usage
 
   ## Contributors:
-  a
+  contributers
+
+  ## License
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Tests:
-  s
+  test
 
   ## Questions:
-  d
+  If you have any questions, please contact at: 
+  email
+
