@@ -5,7 +5,7 @@
 
 function renderLicenseBadge(license) {
   if (license === 'apache-2.0') {
-    return '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)';
+    `return [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0);`
 
   } else if (license === 'Unlicense') {
     return '[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)';
