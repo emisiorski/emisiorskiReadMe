@@ -19,7 +19,9 @@
   see attached video
 
   https://watch.screencastify.com/v/pxRkZTIlNTZLoFQaFf4Y
-  
+
+  ![image](./Develop/readme.png)
+
 
   ## Contributors:
   emisiorski
